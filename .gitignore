@@ -221,3 +221,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Windows & Office/PDF Lock Files ---
+Thumbs.db
+desktop.ini
+*.lnk
+~$*
+*.tmp
+*.bak
+
+# --- Editor / Workspace ---
+.vscode/
+.idea/
+
+# --- Personal Scratch & Drafts (keep private) ---
+*draft*
+*scratch*
+notes/
